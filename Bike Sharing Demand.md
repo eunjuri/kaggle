@@ -1,1 +1,19 @@
-# adfas
+# Data Fields
+---
+datetime: hourly date + timestamp
+season: 1=봄, 2=여름, 3=가을, 4=겨울
+holiday: 1=주말을 제외한 국경일 등의 휴일, 0=휴일이 아닌 날
+workingday: 1=주말 및 휴일이 아닌 주중, 0=주말 및 휴일
+weather:
+1=맑음, 약간 구름 낀 흐림
+2=안개, 안개 + 흐림
+3=가벼운 눈, 가벼운 비 + 천둥
+4=심한 눈/비, 천둥/번개
+temp: 온도(섭씨)
+atemp: 체감온도(섭씨)
+humidity: 상대습도
+windspeed: 풍속
+casual: 사전에 등록되지 않은 사용자가 대여한 횟수
+registered: 사전에 등록된 사용자가 대여한 횟수
+count: 대여 횟수
+---
