@@ -1,5 +1,5 @@
-#Data Fields
-###
+# Data Fields
+---
 datetime: hourly date + timestamp
 season: 1=봄, 2=여름, 3=가을, 4=겨울
 holiday: 1=주말을 제외한 국경일 등의 휴일, 0=휴일이 아닌 날
@@ -16,4 +16,4 @@ windspeed: 풍속
 casual: 사전에 등록되지 않은 사용자가 대여한 횟수
 registered: 사전에 등록된 사용자가 대여한 횟수
 count: 대여 횟수
-###
+---
