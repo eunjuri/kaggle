@@ -1,4 +1,5 @@
 # Data Fields
+# kaggle
 ---
 datetime: hourly date + timestamp
 season: 1=봄, 2=여름, 3=가을, 4=겨울
